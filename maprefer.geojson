@@ -1,1 +1,225 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Nom":"Ressourcerie CETERRRA","Adresse":"30, rue de Hauteville","CP":75010,"Ville":"Paris","Description":"Ressourcerie spécialisée","Téléphone":"01.42.01.46.83","Mail":"resp.ressourcerie@lamaisonducanal.fr","Horaires":"Du mardi au vendredi 11h - 19h","Objets collectés / vendus":"Textile, vêtements, linge de maison","Site internet":"http://www.lamaisonducanal.fr/"},"geometry":{"type":"Point","coordinates":[2.3503687977790833,48.87289766851076]}},{"type":"Feature","properties":{"Nom":"La Petite Rockette","Adresse":"125, rue du Chemin Vert","CP":75011,"Ville":"Paris","Description":"Ressourcerie généraliste, repair café, salles polyvalentes à disposition","Téléphone":"01.55.28.61.18","Mail":"contact@lapetiterockette.org","Horaires":"Mardi – 11h / 19h ; mercredi – 13h / 19h ; jeudi – 13h / 19h ; vendredi – 13h / 19h ; samedi – 11h / 20h","Objets collectés / vendus":"Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD","Site internet":"http://www.lapetiterockette.org"},"geometry":{"type":"Point","coordinates":[2.383861541748047,48.86205388202653]}},{"type":"Feature","properties":{"Nom":"Ma Ressourcerie","Adresse":"3, rue Henri Michaux","CP":75013,"Ville":"Paris","Description":"Ressourcerie généraliste","Téléphone":"01.80.06.40.88","Mail":"contact@maressourcerieparis13.org","Horaires":"mercredi - jeudi - vendredi: 12h30 - 19h00 ; samedi: 11h00 - 19h00","Objets collectés / vendus":"","Site internet":"http://www.maressourcerieparis13.org"},"geometry":{"type":"Point","coordinates":[2.3543304204940796,48.82746899367724]}},{"type":"Feature","properties":{"Nom":"Horizon","Adresse":"3, rue de la Victoire","CP":77100,"Ville":"Meaux","Description":"Ressourcerie généraliste","Téléphone":"01.60.09.93.93","Mail":"","Horaires":"Du mardi au vendredi de 14H00 à 18H00 ; samedi de 10H00 à 18H00.","Objets collectés / vendus":"Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD","Site internet":"http://www.horizon-77.com/"},"geometry":{"type":"Point","coordinates":[2.9054514,48.9568312]}},{"type":"Feature","properties":{"Nom":"Apti'Prix","Adresse":"4, rue de l'Ardèche","CP":78200,"Ville":"Buchelay","Description":"Ressourcerie généraliste","Téléphone":"01.30.94.66.52","Mail":"aptitprix@orange.fr","Horaires":"Mercredi, jeudi, vendredi et samedi de 10h à 17h45","Objets collectés / vendus":"","Site internet":"http://www.aptima.fr/visitez-la-boutique-apti-prix/"},"geometry":{"type":"Point","coordinates":[1.6701686,48.9919474]}},{"type":"Feature","properties":{"Nom":"La Gerbe","Adresse":"13, rue Fontenelles","CP":78920,"Ville":"Ecquevilly","Description":"Ressourcerie généraliste","Téléphone":"01.34.75.56.15","Mail":"","Horaires":"","Objets collectés / vendus":"Livres, vaisselle, bibelot, antiquité, mobilier","Site internet":"http://www.lagerbe.org/fr/ecquevilly/ressourcerie/index.html"},"geometry":{"type":"Point","coordinates":[1.9249635,48.948225]}},{"type":"Feature","properties":{"Nom":"Régie de quartier des Portes de l'Essonne","Adresse":"29, quai de l’industrie","CP":91200,"Ville":"Athis-Mons","Description":"Ressourcerie généraliste","Téléphone":"01.69.57.84.34","Mail":"","Horaires":"Lundi, mardi, mercredi, vendredi de 9h30 à 16h30","Objets collectés / vendus":"Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD","Site internet":"http://www.recyclerie-portesessonne.fr/"},"geometry":{"type":"Point","coordinates":[2.3934356,48.6981138]}},{"type":"Feature","properties":{"Nom":"2Mains","Adresse":"31, avenue Henry Barbusse","CP":93150,"Ville":"Le Blanc Mésnil","Description":"Ressourcerie généraliste","Téléphone":"09.82.34.97.99","Mail":"contact@2mains-asso.fr","Horaires":"2 samedis par mois / voir calendrier des ventes sur le site Internet","Objets collectés / vendus":"Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD","Site internet":"http://www.ressourcerie-2mains.fr"},"geometry":{"type":"Point","coordinates":[2.4525328,48.9355904]}},{"type":"Feature","properties":{"Nom":"La Collecterie","Adresse":"18-30, rue Saint-Antoine","CP":93100,"Ville":"Montreuil","Description":"Ressourcerie généraliste","Téléphone":"01.70.24.06.21","Mail":"contact@lacollecterie.org","Horaires":"2ème et 4ème samedi  de chaque mois de 10h  à 19h (Voir le site)","Objets collectés / vendus":"Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD","Site internet":"http://lacollecterie.org/"},"geometry":{"type":"Point","coordinates":[2.4559077,48.865143]}},{"type":"Feature","properties":{"Nom":"Approche","Adresse":"90 bis, avenue Barbès","CP":94100,"Ville":"Saint-Maur-Les-Fossés","Description":"Ressourcerie généraliste","Téléphone":"01.48.83.13.67","Mail":"courrier@association-approche.com.fr","Horaires":"du lundi au vendredi et le premier Samedi du mois de 15h00 à 18h30 - Fermé le premier Jeudi du mois","Objets collectés / vendus":"Mobilier, quincaillerie, éléctronique, éléctroménager, vêtements, textile, vêtements, déco, livres, CD, DVD","Site internet":"http://www.association-approche.com.fr/"},"geometry":{"type":"Point","coordinates":[2.4890173,48.793169]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Ressourcerie CETERRRA",
+        "Adresse": "30, rue de Hauteville",
+        "CP": 75010,
+        "Ville": "Paris",
+        "Description": "Ressourcerie spécialisée",
+        "Téléphone": "01.42.01.46.83",
+        "Mail": "resp.ressourcerie@lamaisonducanal.fr",
+        "Horaires": "Du mardi au vendredi 11h - 19h",
+        "Objets collectés / vendus": "Textile, vêtements, linge de maison",
+        "Site internet": "http://www.lamaisonducanal.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3503687977790833,
+          48.87289766851076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Petite Rockette",
+        "Adresse": "125, rue du Chemin Vert",
+        "CP": 75011,
+        "Ville": "Paris",
+        "Description": "Ressourcerie généraliste, repair café, salles polyvalentes à disposition",
+        "Téléphone": "01.55.28.61.18",
+        "Mail": "contact@lapetiterockette.org",
+        "Horaires": "Mardi – 11h / 19h ; mercredi – 13h / 19h ; jeudi – 13h / 19h ; vendredi – 13h / 19h ; samedi – 11h / 20h",
+        "Objets collectés / vendus": "Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD",
+        "Site internet": "http://www.lapetiterockette.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383861541748047,
+          48.86205388202653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Ma Ressourcerie",
+        "Adresse": "3, rue Henri Michaux",
+        "CP": 75013,
+        "Ville": "Paris",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "01.80.06.40.88",
+        "Mail": "contact@maressourcerieparis13.org",
+        "Horaires": "mercredi - jeudi - vendredi: 12h30 - 19h00 ; samedi: 11h00 - 19h00",
+        "Objets collectés / vendus": "",
+        "Site internet": "http://www.maressourcerieparis13.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3543304204940796,
+          48.82746899367724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Horizon",
+        "Adresse": "3, rue de la Victoire",
+        "CP": 77100,
+        "Ville": "Meaux",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "01.60.09.93.93",
+        "Mail": "",
+        "Horaires": "Du mardi au vendredi de 14H00 à 18H00 ; samedi de 10H00 à 18H00.",
+        "Objets collectés / vendus": "Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD",
+        "Site internet": "http://www.horizon-77.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9054514,
+          48.9568312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Apti'Prix",
+        "Adresse": "4, rue de l'Ardèche",
+        "CP": 78200,
+        "Ville": "Buchelay",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "01.30.94.66.52",
+        "Mail": "aptitprix@orange.fr",
+        "Horaires": "Mercredi, jeudi, vendredi et samedi de 10h à 17h45",
+        "Objets collectés / vendus": "",
+        "Site internet": "http://www.aptima.fr/visitez-la-boutique-apti-prix/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6701686,
+          48.9919474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Gerbe",
+        "Adresse": "13, rue Fontenelles",
+        "CP": 78920,
+        "Ville": "Ecquevilly",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "01.34.75.56.15",
+        "Mail": "",
+        "Horaires": "",
+        "Objets collectés / vendus": "Livres, vaisselle, bibelot, antiquité, mobilier",
+        "Site internet": "http://www.lagerbe.org/fr/ecquevilly/ressourcerie/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9249635,
+          48.948225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Régie de quartier des Portes de l'Essonne",
+        "Adresse": "29, quai de l’industrie",
+        "CP": 91200,
+        "Ville": "Athis-Mons",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "01.69.57.84.34",
+        "Mail": "",
+        "Horaires": "Lundi, mardi, mercredi, vendredi de 9h30 à 16h30",
+        "Objets collectés / vendus": "Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD",
+        "Site internet": "http://www.recyclerie-portesessonne.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3934356,
+          48.6981138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "2Mains",
+        "Adresse": "31, avenue Henry Barbusse",
+        "CP": 93150,
+        "Ville": "Le Blanc Mésnil",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "09.82.34.97.99",
+        "Mail": "contact@2mains-asso.fr",
+        "Horaires": "2 samedis par mois / voir calendrier des ventes sur le site Internet",
+        "Objets collectés / vendus": "Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD",
+        "Site internet": "http://www.ressourcerie-2mains.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4525328,
+          48.9355904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Collecterie",
+        "Adresse": "18-30, rue Saint-Antoine",
+        "CP": 93100,
+        "Ville": "Montreuil",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "01.70.24.06.21",
+        "Mail": "contact@lacollecterie.org",
+        "Horaires": "2ème et 4ème samedi  de chaque mois de 10h  à 19h (Voir le site)",
+        "Objets collectés / vendus": "Mobilier, quincaillerie, éléctronique, élécrotménager, vêtements, textile, vêtements, déco, livres, CD, DVD",
+        "Site internet": "http://lacollecterie.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4559077,
+          48.865143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Approche",
+        "Adresse": "90 bis, avenue Barbès",
+        "CP": 94100,
+        "Ville": "Saint-Maur-Les-Fossés",
+        "Description": "Ressourcerie généraliste",
+        "Téléphone": "01.48.83.13.67",
+        "Mail": "courrier@association-approche.com.fr",
+        "Horaires": "du lundi au vendredi et le premier Samedi du mois de 15h00 à 18h30 - Fermé le premier Jeudi du mois",
+        "Objets collectés / vendus": "Mobilier, quincaillerie, éléctronique, éléctroménager, vêtements, textile, vêtements, déco, livres, CD, DVD",
+        "Site internet": "http://www.association-approche.com.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4890173,
+          48.793169
+        ]
+      }
+    }
+  ]
+}
